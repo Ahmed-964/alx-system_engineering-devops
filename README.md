@@ -1,3 +1,2 @@
 # alx-system_engineering-devops
-this the readme file of the alx repo
-i am now making shell basics project
+In this repo, you will find all the scipts for 00x0-shell_basics
